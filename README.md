@@ -1,5 +1,33 @@
 ### Hi there 👋
 
+```console
+» whoami                      
+Teo Diaz
+
+* Veteran Paratrooper of the Spanish Army
+* Crossfitter
+* Code developer who turn caffeine into code, I love everything I made, good or bad, because always learned
+```
+
+### Currently working on 👨🏻‍💻
+```console
+Cabify developer team
+```
+
+### Learning :book:
+```console
+* Ruby on rails
+* Kotlin
+* PHP
+* Pentesting
+```
+
+### How to reach me 📫
+
+* [Linkedin](https://www.linkedin.com/in/teodiaz/)
+* tdiazsan@gmail.com
+
+
 <!--
 **TeoDiaz/TeoDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
