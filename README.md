@@ -16,9 +16,9 @@ Cabify developer team
 
 ### Learning :book:
 ```console
+* Phoenix LiveView
 * Ruby on rails
 * Kotlin
-* PHP
 * Pentesting
 ```
 
@@ -26,6 +26,10 @@ Cabify developer team
 
 * [Linkedin](https://www.linkedin.com/in/teodiaz/)
 * tdiazsan@gmail.com
+
+### Pet Projects
+
+* [Daily Reminders](https://daily-reminders.herokuapp.com/)
 
 
 <!--
