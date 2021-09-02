@@ -19,7 +19,7 @@ Cabify developer team
 * Phoenix LiveView
 * Ruby on rails
 * Kotlin
-* Pentesting
+* GoLang
 ```
 
 ### How to reach me 📫
