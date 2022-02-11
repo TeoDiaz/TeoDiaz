@@ -30,6 +30,7 @@ Cabify developer team
 ### Pet Projects
 
 * [Daily Reminders](https://daily-reminders.herokuapp.com/)
+* [Wordle - LiveView](https://wordlegame.herokuapp.com/)
 
 
 <!--
